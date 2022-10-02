@@ -1,3 +1,3 @@
 # AcceleratorRecorderTermux
-First if you dont have 'apt install termux-api'
-And 'chmod +x AccelerateRecorder' 
+First if you dont have `apt install termux-api`
+And  `chmod +x AccelerateRecorder`
